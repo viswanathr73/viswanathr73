@@ -30,12 +30,20 @@ I am a mechanical engineer turned self-taught full-stack web developer with a pa
 - **Tools:** VS Code, Postman
 
 ## Learning Path
-
-Document your learning path, including courses, tutorials, and books that have been instrumental in your journey. This can give visitors insights into your learning process and the resources you found most valuable.
+ Foundational Knowledge:
+ HTML, CSS, JavaScript: Understand the basics of web development, including HTML for structure, CSS for styling, and JavaScript for interactivity.
+Basic Programming Concepts: Learn fundamental programming concepts like variables, loops, conditionals, functions, and data structures.
+Frontend Development:
+React.js: Start with learning React.js, a JavaScript library for building user interfaces. Follow tutorials, create simple projects, and familiarize yourself with concepts like components, state management, and routing.
+Bootstrap or Material UI: Learn CSS frameworks like Bootstrap or Material UI to enhance the visual appeal and responsiveness of your React applications
+Backend Development:
+Node.js and Express.js: Learn server-side development using Node.js, a JavaScript runtime, and Express.js, a web application framework for Node.js. Understand routing, middleware, handling HTTP requests, and integrating databases.
+ Database Management:
+MongoDB: Gain proficiency in MongoDB, a NoSQL database used with Node.js for storing and managing data. Learn about collections, documents, querying, indexing, and data modeling.
 
 ## Connect With Me
 
-- **GitHub:viswanathr73 [Your GitHub Profile](https://github.com/yourusername)
+- **GitHub:viswanathr73 [Your GitHub Profile](https://github.com/viswanathr73)
 - **LinkedIn:viswanath r (https://www.linkedin.com/in/viswanath-r96/)
 -**Stackoverflow:viswanathr(https://stackoverflow.com/users/22007707/viswanath-r)
 
