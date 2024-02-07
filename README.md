@@ -43,7 +43,7 @@ MongoDB: Gain proficiency in MongoDB, a NoSQL database used with Node.js for sto
 
 ## Connect With Me
 
-- **GitHub:viswanathr73 [Your GitHub Profile](https://github.com/viswanathr73)
+- **GitHub:viswanathr73 [GitHub Profile](https://github.com/viswanathr73)
 - **LinkedIn:viswanath r (https://www.linkedin.com/in/viswanath-r96/)
 -**Stackoverflow:viswanathr(https://stackoverflow.com/users/22007707/viswanath-r)
 
