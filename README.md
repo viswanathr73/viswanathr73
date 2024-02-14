@@ -13,9 +13,9 @@ I am a mechanical engineer turned self-taught full-stack web developer with a pa
 
 ## Tech Stack
 
-- **Frontend:**  HTML, CSS,Bootstrap, JavaScript
+- **Frontend:** React,HTML,CSS,Bootstrap,JavaScript
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+- **Database:** MongoDB,PostgreSQL
 - **Tools & Others:** Git, GitHub, VS Code, Postman
 
 
@@ -40,7 +40,7 @@ Backend Development:
 Node.js and Express.js: Learn server-side development using Node.js, a JavaScript runtime, and Express.js, a web application framework for Node.js. Understand routing, middleware, handling HTTP requests, and integrating databases.
  Database Management:
 MongoDB: Gain proficiency in MongoDB, a NoSQL database used with Node.js for storing and managing data. Learn about collections, documents, querying, indexing, and data modeling.
-
+PostgreSQL:Learn about tables,querying,indexing and data modelng.
 ## Connect With Me
 
 - **GitHub:viswanathr73 [GitHub Profile](https://github.com/viswanathr73)
