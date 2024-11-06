@@ -13,10 +13,10 @@ I am a mechanical engineer turned self-taught full-stack web developer with a pa
 
 ## Tech Stack
 
-- **Frontend:** React js,HTML,CSS,Bootstrap,JavaScript
+- **Frontend:** Reactjs,Next js,HTML,CSS,Bootstrap,JavaScript
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB,PostgreSQL
-- **Tools & Others:** Git, GitHub, VS Code, Postman
+- **Tools & Others:** Git, GitHub, VS Code, Postman,Figma
 
 
 
@@ -25,7 +25,7 @@ I am a mechanical engineer turned self-taught full-stack web developer with a pa
 - **Languages:** JavaScript (ES6+)
 - **Web Technologies:** HTML5, CSS3, RESTful APIs
 - **Version Control:** Git
-- **Database:** MongoDB
+- **Database:** MongoDB,Firebase
 - **Frameworks/Libraries:** React.js, Node.js, Express.js
 - **Tools:** VS Code, Postman
 
